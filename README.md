@@ -10,11 +10,11 @@ Aplikasi ini dibuat melalui tutorial yang ada pada course udemy yang berjudul "D
 
 - 📈 Menampilkan harga koin kripto secara real-time
 - 💱 Mendukung berbagai mata uang (USD, IDR, EUR, dll)
-- 🔁 Pengguna dapat memilih mata uang dan memperbarui tampilan harga utama
 - 🧩 UI sederhana dan responsif
 - 📡 Mengambil data dari [CoinGecko API](https://www.coingecko.com/)
 
-
+## ✨ Fitur Tambahan
+- 🔁 Pengguna dapat memilih mata uang dan memperbarui tampilan harga utama pada homepage
 ---
 
 ## 🖼️ Tangkapan Layar
