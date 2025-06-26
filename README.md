@@ -1,16 +1,26 @@
-# coincap
+# 💸 Aplikasi Pemantau Harga Kripto
 
-A new Flutter project.
+CoinCap App adalah sebuah aplikasi Flutter untuk menampilkan informasi harga cryptocurrency secara real-time menggunakan API dari CoinGecko.  
+Pengguna dapat mengetuk ganda logo cryptocurrency untuk melihat daftar mata uang dan memilih salah satu, lalu harga akan diperbarui secara otomatis sesuai pilihan tersebut.
 
-## Getting Started
+Aplikasi ini dibuat melalui tutorial yang ada pada course udemy yang berjudul "Dart & Flutter | The Complete Flutter Development Course" dari Hussain Mustafa, Codestarts
 
-This project is a starting point for a Flutter application.
+---
+## ✨ Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- 📈 Menampilkan harga koin kripto secara real-time
+- 💱 Mendukung berbagai mata uang (USD, IDR, EUR, dll)
+- 🔁 Pengguna dapat memilih mata uang dan memperbarui tampilan harga utama
+- 🧩 UI sederhana dan responsif
+- 📡 Mengambil data dari [CoinGecko API](https://www.coingecko.com/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼️ Tangkapan Layar
+
+### Homepage
+<img src="https://github.com/leoncen26/Coincap-App/blob/main/assets/images/screenshot/home_page.png" width="250" />
+
+### Detail Page
+<img src="https://github.com/leoncen26/Coincap-App/blob/main/assets/images/screenshot/detail_page.png" width="250" />
