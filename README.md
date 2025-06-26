@@ -13,7 +13,7 @@ Aplikasi ini dibuat melalui tutorial yang ada pada course udemy yang berjudul "D
 - 🧩 UI sederhana dan responsif
 - 📡 Mengambil data dari [CoinGecko API](https://www.coingecko.com/)
 
-## ✨ Fitur Tambahan
+## ✨ Fitur Tambahan (Fitur yang ditambah sendiri)
 - 🔁 Pengguna dapat memilih mata uang dan memperbarui tampilan harga utama pada homepage
 ---
 
